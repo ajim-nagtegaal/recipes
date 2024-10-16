@@ -2,7 +2,7 @@
 Makes a fest of every party
 ## Ingredients
 * avocado
-* lime
+* lime or lemon
 * salt
 ## Instructions
-Throw everything in a bowl an emesh up
+Throw everything in a bowl an mesh up
