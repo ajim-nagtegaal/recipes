@@ -6,4 +6,3 @@ Makes a fest of every party
 * salt
 ## Instructions
 Throw everything in a bowl an mesh up
-Or not?
